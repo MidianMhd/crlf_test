@@ -27,6 +27,14 @@ export default function setupColors(
     });
   }
 
+
+
+
+
+
+
+
+  
   [superset, airbnb, categoricalD3, echarts, google, lyft, preset].forEach(
     group => {
       group.forEach(scheme => {
